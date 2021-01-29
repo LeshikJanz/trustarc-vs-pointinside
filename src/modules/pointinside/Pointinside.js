@@ -44,8 +44,6 @@ export const PointInside = () => {
           zone: currentStorePlace.zoneId,
         };
 
-        console.log({ location })
-
         resolve(location);
       })
     );
