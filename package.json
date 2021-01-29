@@ -1,7 +1,7 @@
 {
-  "name": "trustars-vs-pointinside",
+  "name": "pointinside-vs-trustars",
   "version": "1.0.0",
-  "description": "",
+  "description": "Here's a battle of two powerful libraries",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
